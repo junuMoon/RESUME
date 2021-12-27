@@ -7,7 +7,7 @@
 
 ## 소개
 
-![프로필이미지](https://github.com/junuMoon/RESUME/raw/master/images/profile.jpg)
+![프로필이미지](https://github.com/junuMoon/RESUME/blob/master/images/profile.JPG)
 
 - 이름: 문준우
 
