@@ -39,7 +39,7 @@
 | MLOps                    |                           |      |
 | 데이터 핸들링            | Numpy, Pandas, Polar      |      |
 | 데이터베이스             | SQL, MySQL                |      |
-| API                      | Flask                     |      |
+| 웹 프레임워크            |                           |      |
 | CI/CD                    | Git, Redmine              |      |
 
 ## Certificates
@@ -54,23 +54,23 @@
 
 ## Project
 
-- Building Cryptocurrency Value Assessment Model
-  - 암호화폐 가치 평가 모델 구축
-- Sports Consumer Response Analysis Using SNS Big Data: Baseball, Football, Basketball Comparison
-  - SNS 빅데이터를 사용한 스포츠 소비자 반응 분석: 야구, 축구, 농구 비교
-  - SNS 데이터 수집 -> NLP -> 통계 분석
-- Analysis of traffic patterns and accidents according to system operation
-  - 시스템 운영에 따른 교통 패턴 및 사고 발생 분석
-  - Analysis using T-test and Mann-whitney
-- Quality Inspection for Deep-learning solution and its dataset
-  - 딥러닝 솔루션 및 데이터셋에 대한 품질 검사
-  - Semantic Segmentation 
-
+- 암호화폐 가치 평가 모델 구축
+  - Building Cryptocurrency Value Assessment Model
+  - Tabular 데이터셋을 구축 후 Linear Regression, Random Forest 등을 이용한 암호화폐 종합 분석 모델 개발
+- SNS 빅데이터를 사용한 스포츠 소비자 반응 분석: 야구, 축구, 농구 비교
+  - Sports Consumer Response Analysis Using SNS Big Data: Baseball, Football, Basketball Comparison
+  - 3개의 SNS(네이버, 트위터, DCInside)에서 프로 스포츠에 대한 소비자 반응 데이터 수집. 자연어 전처리 후 Word2Vec/Doc2Vec을 이용한 임베딩. K-means, LDA, 감성분석 실시
+- 시스템 운영에 따른 교통 패턴 및 사고 발생 분석
+  - Analysis of traffic patterns and accidents according to system operation
+  - 200만+줄의 제공 받은 데이터와 공공데이터를 맵핑하여 분석 데이터셋 구축. 요구사항에 따라 독립표본 T-검정과 Mann-Whitney 검정 실시하여 기업 시스템 운영 분석 보고서 제출
+- 딥러닝 솔루션 및 데이터셋에 대한 품질 검사
+  - Quality Inspection for Deep-learning solution and its dataset
+  - U-net을 사용한 Semantic Segmentation 딥러닝 모델 프로젝트 검수. 데이터셋에서 타겟 개체가 존재하지 않는 이미지 비율이 높은 점을 확인하고 모델이 타겟 개체 외에 다른 개체들을 인식하는 문제에 대한 원인으로 제시
 
 
 ----
 
 여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
+부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/junuMoon/RESUME/issues)로 남겨주시겨나, francomoon7@gmail.com으로 연락주세요.<br/>
 감사합니다.
 
