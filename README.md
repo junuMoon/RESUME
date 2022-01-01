@@ -2,8 +2,6 @@
 
 > Machine Learning Engineer, who is obeying the TDD Goat!
 
-![프로필이미지](https://github.com/junuMoon/RESUME/raw/master/images/profile.jpg)
-
 ## Contact Info
 
 - Email: francomoon7@gmail.com
