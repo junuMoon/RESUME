@@ -16,7 +16,7 @@
 
 ## Experience
 
-- ML Engineer 연구원: [초록소프트](https://www.kakaomobility.com/) (2021. 02 - 현재)
+- ML Engineer 연구원: [초록소프트](http://catchroad.com) (2021. 02 - 현재)
 - 프리랜서(2019. 12 - 2021. 01)
 - 인턴: [스토리안트](http://storyant.com)(2019. 07 - 2019.09)
 
