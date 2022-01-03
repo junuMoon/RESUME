@@ -29,26 +29,14 @@
 
 ## Skills
 
-| 분야                     | 도구                      | 평가 |
-| ------------------------ | ------------------------- | ---- |
-| 프로그래밍 언어          | Python                    |      |
-| 딥러닝 프레임워크        | PyTorch, FastAI           |      |
-| 통계/머신러닝 프레임워크 | Scikit-Learn, Statsmodels |      |
-| MLOps                    |                           |      |
-| 데이터 핸들링            | Numpy, Pandas, Polar      |      |
-| 데이터베이스             | SQL, MySQL                |      |
-| 웹 프레임워크            |                           |      |
-| CI/CD                    | Git, Redmine              |      |
-
-## Certificates
-
-| 분야        | 자격증     |
-| ----------- | ---------- |
-| 영어        | TOEIC(960) |
-| 스페인어    | DELE(B2)   |
-| 컴퓨터 과학 |            |
-| 머신러닝    |            |
-
+| 분야                     | 도구                      |
+| ------------------------ | ------------------------- |
+| 프로그래밍 언어          | Python                    |
+| 딥러닝 프레임워크        | PyTorch, FastAI           |
+| 통계/머신러닝 프레임워크 | Scikit-Learn, Statsmodels |
+| 데이터 핸들링            | Numpy, Pandas             |
+| 데이터베이스             | SQL, MySQL                |
+| CI/CD                    | Git, Redmine              |
 
 ## Project
 
